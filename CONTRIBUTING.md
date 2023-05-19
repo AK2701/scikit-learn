@@ -2,7 +2,7 @@
 Contributing to scikit-learn
 ============================
 
-The latest contributing guide is available in the repository at
+The latest contributing guide is available in the repository a
 `doc/developers/contributing.rst`, or online at:
 
 https://scikit-learn.org/dev/developers/contributing.html
